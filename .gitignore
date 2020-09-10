@@ -1,0 +1,12 @@
+logs
+target
+target/
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+*.sh
+.DS_Store
+conf/cybertron
